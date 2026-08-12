@@ -23,6 +23,4 @@ I develop academic and practical projects with an emphasis on software engineeri
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagorraposo\&show_icons=true\&theme=transparent\&hide_border=true\&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=thiagorraposo\&theme=transparent\&hide_border=true\&locale=en)
+![GitHub Streak](https://streak-stats.demolab.com?user=thiagorraposo\&theme=dark\&hide_border=true\&locale=en)
