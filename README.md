@@ -24,3 +24,8 @@ I develop academic and practical projects with an emphasis on software engineeri
 ## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=thiagorraposo\&theme=dark\&hide_border=true\&locale=en)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Raposo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thiagorraposo/)
+[![Instagram](https://img.shields.io/badge/Instagram-@thiagorraposo.dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/thiagorraposo.dev/)
