@@ -1,3 +1,3 @@
 # Thiago Raposo
 
-[![GitHub Streak](https://herokuapp.com)](https://git.io/streak-stats)
+![Sequência de contribuições](https://streak-stats.demolab.com?user=thiagorraposo&theme=dark&locale=pt_BR)
