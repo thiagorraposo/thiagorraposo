@@ -10,8 +10,6 @@ I develop academic and practical projects with an emphasis on software engineeri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ## Current Focus
@@ -27,5 +25,6 @@ I develop academic and practical projects with an emphasis on software engineeri
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Raposo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thiagorraposo/)
-[![Instagram](https://img.shields.io/badge/Instagram-@thiagorraposo.dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/thiagorraposo.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorraposo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagorraposo.dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagorraposo.dev@gmail.com)
