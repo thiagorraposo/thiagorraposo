@@ -21,7 +21,7 @@ I develop academic and practical projects with an emphasis on software engineeri
 
 ## GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagorraposo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thiagorraposo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Connect
 
